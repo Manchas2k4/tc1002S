@@ -1,0 +1,9 @@
+customer_id,cust_name,city,salesman_id 
+3002,Nick Rimando,New York,5001
+3007,Brad Davis,New York,5001
+3005,Graham Zusi,California,5002
+3008,Julian Green,London,5002
+3004,Fabian Johnson,Paris,5006
+3009,Geoff Cameron,Berlin,5003
+3003,Jozy Altidor,Moscow,5007
+3001,Brad Guzan,London,5005
