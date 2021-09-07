@@ -1,4 +1,5 @@
 ![Tec de Monterrey](images/logotecmty.png)
+
 CS Tool - Mastering Analytics (TC1002S)
 It is a basic level workshop in which the student will explore in a practical way key aspects of engineering and basic tools of the profession. It does not require prior knowledge.
 
