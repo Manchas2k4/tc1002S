@@ -1,0 +1,5 @@
+﻿A,10,Sam
+B,20,Pedro
+C,30,Enrique
+D,!,?
+E,50,Marcos
