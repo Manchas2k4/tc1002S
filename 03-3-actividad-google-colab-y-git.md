@@ -2,7 +2,7 @@
 # Actividad 3 - Usando Git en Google Colab
 
 ## <span style="color: rgb(26, 99, 169);">¿Qué tengo que hacer?</span>
-En esta actividad, praticaremos cómo enlacer Git con un cuaderno de Google Colab.
+En esta actividad, practicaremos cómo enlazar Git con un cuaderno de Google Colab.
 
 ## <span style="color: rgb(26, 99, 169);">Descripción</span>
 1. Crea un repositorio llamado **SemanaTec** con un archivo **README.md**.
