@@ -5,7 +5,7 @@
 Usaremos la consola (terminal) para crear, modificar, mover o eliminar archivos y directorios.
 
 ## <span style="color: rgb(26, 99, 169);">Descripción</span>
-Realiza los pasos que se decriben a continuación. Es importante que vayas guardando capturas de pantalla de cada uno de los pasos, pues serán la evidencia de tu trabajo.
+Realiza los pasos que se  describen a continuación. Es importante que vayas guardando capturas de pantalla de cada uno de los pasos, pues serán la evidencia de tu trabajo.
 
 ### <span style="color: rgb(26, 99, 169);">Manejo de consola</span>
 Empleado la terminal:
