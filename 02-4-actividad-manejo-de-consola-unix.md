@@ -13,15 +13,15 @@ Empleado la terminal:
 2. Dentro de esta carpeta, crea dos carpetas llamadas:
 - **Carpeta1**
 - **Carpeta2**
-3. Posisiónate en la carpeta **Carpeta1** y baja la siguiente imagen: [https://www.python.org/static/apple-touch-icon-144x144-precomposed.png](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png).
+3. Posiciónate en la carpeta **Carpeta1** y baja la siguiente imagen: [https://www.python.org/static/apple-touch-icon-144x144-precomposed.png](https://www.python.org/static/apple-touch-icon-144x144-precomposed.png).
 4. Dentro de la misma carpeta. crea 3 archivos de texto llamados:
 - **ejemplo1.txt**
 - **ejemplo2.txt**
 - **ejemplo3.txt**
 5. Muestra todos los archivos existentes en **Carpeta1**.
 6. Dentro de esta carpeta, busca todos los archivos que terminan con la extensión **.txt**.
-7. Posisiónate en la carpeta **SemanaTec** y busca nuevamene los archivos con extensión **.txt**.
-8. Vuelve a posisionarte en la carpeta **Carpeta1**, abre el archivo **ejemplo1.txt**. Escribe algunas líneas dentro de él, asegurándote de escribir la palabra "luz" en alguna de ellas.
+7. Posiciónate en la carpeta **SemanaTec** y busca nuevamene los archivos con extensión **.txt**.
+8. Vuelve a posicionarte en la carpeta **Carpeta1**, abre el archivo **ejemplo1.txt**. Escribe algunas líneas dentro de él, asegurándote de escribir la palabra "luz" en alguna de ellas.
 9. Guarda los cambios y cierra el archivo.
 10. Dentro de **Carpeta1**, busca en qué lugares se menciona la palabra "luz" y despliégalas en la consola.
 11. Elimina todos los archivos y carpetas.
