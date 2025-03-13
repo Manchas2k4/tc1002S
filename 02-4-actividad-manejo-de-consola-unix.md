@@ -30,4 +30,4 @@ Empleado la terminal:
 Un documento en Word (o PDF) que contenga capturas de pantalla de los resultados de los pasos anteriores.
 
 ## <span style="color: rgb(26, 99, 169);">¿Bajo qué criterios se evalúa mi evidencia?</span>
-- **-50** La actividad fue entregada fuera de la fecha límite.
+- **-40** La actividad fue entregada fuera de la fecha límite.
